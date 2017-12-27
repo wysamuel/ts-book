@@ -1,0 +1,32 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "My TypeScript book examples",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wysamuel/ts-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wysamuel/ts-book/issues"
+  },
+  "homepage": "https://github.com/wysamuel/ts-book#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.3",
+    "tslint": "^5.8.0"
+  },
+  "dependencies": {
+    "browserify": "^14.5.0",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "vinyl-transform": "^1.0.0"
+  }
+}
